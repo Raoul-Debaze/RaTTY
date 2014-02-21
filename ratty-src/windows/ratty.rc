@@ -1,0 +1,6 @@
+#define APPNAME "RaTTY"
+#define APPDESC "Raoul Debaze testing"
+
+#ifndef NO_MANIFESTS
+1 RT_MANIFEST "ratty.mft"
+#endif /* NO_MANIFESTS */
