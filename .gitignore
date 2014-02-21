@@ -2,6 +2,7 @@
 /Debug
 *.map
 build.log
+*.DEV
 
 #gvim
 *~
